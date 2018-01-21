@@ -3,15 +3,6 @@ body {
     width: 70%;
 }
 
-header  {
-    
-    float: left;
-    margin:0px 0px 0px 0px;
-    padding: 5px 0 0 0 ;
-  
-   
-}
-
             
 nav ul, footer ul {
     font-family:'cochin', 'Arial', 'Sans-Serif';
