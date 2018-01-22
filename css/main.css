@@ -60,3 +60,7 @@ os  {
     font-weight: 700;
     text-align: center;
 }
+figure
+    {
+        font-size: 2em;
+}
