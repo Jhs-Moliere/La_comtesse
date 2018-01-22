@@ -77,4 +77,6 @@ figure figcaption {
     border: 5px solid #ffcc5c;
         
     display: flex;
+    
+    justify-content: auto;
 }
