@@ -11,7 +11,7 @@ div {
 }
 
             
-nav ul, {
+nav {
     font-family:'cochin', 'Arial', 'Sans-Serif';
     padding: 3em;
     list-style: none;
@@ -60,6 +60,7 @@ img.scaled {
 }
 figure figcaption {
     
+    font-style: bold;
     text-align: center;
 }
 
