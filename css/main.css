@@ -13,7 +13,7 @@ div {
             
 nav ul, {
     font-family:'cochin', 'Arial', 'Sans-Serif';
-    padding: 1em;
+    padding: 3em;
     list-style: none;
     font-weight: bold;
 }
@@ -45,10 +45,10 @@ os  {
 }
 
 figure {
-  float: right;
+  float: center;
   width: 30%;
-  text-align: left;
-  font-style: italic;
+  text-align: center;
+  font-style: bold;
   font-size: smaller;
   text-indent: 0;
   
@@ -59,7 +59,7 @@ img.scaled {
   width: 100%;
 }
 figure figcaption {
-    border: 1px dotted blue;
+    
     text-align: center;
 }
 
