@@ -45,12 +45,18 @@ os  {
 }
 
 figure {
-    display: inline-block;
-    border: 1px dotted gray;
-    margin: 20px;
+  float: right;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
 }
-figure img {
-    vertical-align: top;
+img.scaled {
+  width: 100%;
 }
 figure figcaption {
     border: 1px dotted blue;
