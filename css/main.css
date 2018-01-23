@@ -13,7 +13,7 @@ div {
             
 nav ul, {
     font-family:'cochin', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 1em;
     list-style: none;
     font-weight: bold;
 }
